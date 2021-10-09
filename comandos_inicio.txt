@@ -1,0 +1,5 @@
+python -m venv env -> crear entorno virtual
+env\Scripts\activate -> activar entorno virtual
+pip install mysql-connector-python -> instalar conector mysql
+
+
